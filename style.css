@@ -1,1 +1,23 @@
-p{font-family:helvetica;}
+p{
+	font-family:helvetica;
+	text-align:center;
+
+}
+
+h1{color:blue;
+text-align: center;
+font-family:helvetica;}
+
+.red-rectangle{
+
+	background-color: red;
+	width: 500px
+}
+
+img{
+	width: 500px;
+	display:block;
+	margin-left: auto;
+	margin-right:auto;
+	width:40%;
+}
